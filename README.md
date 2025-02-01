@@ -30,11 +30,11 @@ It is very useful for protecting sensitive data or ensuring privacy when sharing
     python Encrypt-Decrypt.py path/to/yourfile.txt
 
 ## Example 
-- Encrypt a file
+- Encrypt a file :
    python encrypt.py sensitive_data.txt
-   and type (E)
-- Decrypt the file
+         and type (E)
+- Decrypt the file :
    python decrypt.py sensitive_data.txt.enc
-   and type (D)
+         and type (D)
 
 
