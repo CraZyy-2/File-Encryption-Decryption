@@ -32,11 +32,11 @@ It is very useful for protecting sensitive data or ensuring privacy when sharing
 ## Example 
 - Encrypt a file :
    ```bash
-  python encrypt-decrypt.py sensitive_data.txt
+  python encrypt-decrypt.py
 and type (E)
 - Decrypt the file :
   ```bash
-   python encrypt-decrypt.py sensitive_data.txt.enc
+   python encrypt-decrypt.py 
 and type (D)
 
 
