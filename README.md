@@ -31,10 +31,12 @@ It is very useful for protecting sensitive data or ensuring privacy when sharing
 
 ## Example 
 - Encrypt a file :
-   python encrypt.py sensitive_data.txt
-               and type (E)
+   ```bash
+  python encrypt.py sensitive_data.txt
+and type (E)
 - Decrypt the file :
+  ```bash
    python decrypt.py sensitive_data.txt.enc
-               and type (D)
+and type (D)
 
 
