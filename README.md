@@ -27,16 +27,16 @@ It is very useful for protecting sensitive data or ensuring privacy when sharing
 ## Usage 
 - Encrypting or Decrypting a File :
     ```bash
-    python Encrypt-Decrypt.py path/to/yourfile.txt
+    python encrypt-decrypt.py path/to/yourfile.txt
 
 ## Example 
 - Encrypt a file :
    ```bash
-  python encrypt.py sensitive_data.txt
+  python encrypt-decrypt.py sensitive_data.txt
 and type (E)
 - Decrypt the file :
   ```bash
-   python decrypt.py sensitive_data.txt.enc
+   python encrypt-decrypt.py sensitive_data.txt.enc
 and type (D)
 
 
