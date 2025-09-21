@@ -1,4 +1,4 @@
-#🔐 File Encryption & Decryption
+# 🔐 File Encryption & Decryption
 
 A Python-based command-line tool to encrypt and decrypt files using the AES (Advanced Encryption Standard) algorithm.
 
