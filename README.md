@@ -20,22 +20,22 @@ Cross-Platform – Works on Windows, macOS, and Linux.
 ## 🔧 Prerequisites
 
 Install the required library:
-
+```bash
 pip install pycryptodome
-
+```
 ## ⚙️ Installation
 
 Clone the repository and navigate into the project folder:
-
+```bash
 git clone https://github.com/CraZyy-2/File-Encryption-Decryption.git
 cd File-Encryption-Decryption
-
+```
 ## 🕹️ Usage
 
 Encrypt or Decrypt a File
-
+```bash
 python encrypt-decrypt.py path/to/yourfile.txt
-
+```
 
 When prompted:
 
@@ -46,16 +46,16 @@ Type D to decrypt the file.
 ## 💡 Example
 
 Encrypt a file:
-
+```bash
 python encrypt-decrypt.py
 # then enter: E
-
+```
 
 Decrypt a file:
-
+```bash
 python encrypt-decrypt.py
 # then enter: D
-
+```
 ## 🤝 Contributing
 Contributions are welcome!  
 If you’d like to add new features or fix issues, fork the repo, create a branch, and submit a pull request.
